@@ -2,7 +2,7 @@
 ## C++ OpenCV project on Linux
 
 ## Table of contents
-* [Introduction] #introduction)
+* [Introduction](#introduction)
 * [Technologies](#technologies)
 * [Setup](#setup)
 * 
