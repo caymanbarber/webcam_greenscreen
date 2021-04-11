@@ -5,7 +5,7 @@
 * [Introduction](#introduction)
 * [Technologies](#technologies)
 * [Setup](#setup)
-* 
+
 <a name="introduction"/>
 ## Introduction
 This project is a training project to practice working with image processing, statistics, video, and image masks. The webcam used for testing is very cheap and noisy so the program tries to statistically recover data over noise. 
