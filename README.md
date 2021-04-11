@@ -30,6 +30,7 @@ $ ./make_run.sh
 To run enter the following command. Add the directory of the image you would like as an argument. 
 
 ```
-$ cd build
+$ mkdir build/
+$ cd build/
 $ ./showimg dir_to_image/
 ```
