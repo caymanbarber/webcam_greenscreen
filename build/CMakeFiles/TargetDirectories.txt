@@ -1,0 +1,3 @@
+/home/caymanbarber/Projects/cpp_practice/OpenCV_7_webcam_greenscreen/build/CMakeFiles/edit_cache.dir
+/home/caymanbarber/Projects/cpp_practice/OpenCV_7_webcam_greenscreen/build/CMakeFiles/rebuild_cache.dir
+/home/caymanbarber/Projects/cpp_practice/OpenCV_7_webcam_greenscreen/build/CMakeFiles/showimg.dir
