@@ -11,13 +11,14 @@ This project is a training project to practice working with image processing, st
 
 ![](556fls.gif)
 
-
+<a name="introduction"/>
 ## Technologies
 Project is created with:
 * C++ 17
 * OpenCV 4.5.2-pre
 * Cmake 3.16.3
 
+<a name="setup"/>
 ## Setup
 To make project, download and make OpenCV then run the following code. 
 
