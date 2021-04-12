@@ -19,8 +19,8 @@ Project is created with:
 * OpenCV 4.5.2-pre
 * Cmake 3.16.3
 
-<a name="setup"/>
-## Setup
+## <a name="setup"/>
+Setup
 To make project, download and make OpenCV then run the following code. 
 
 ```
